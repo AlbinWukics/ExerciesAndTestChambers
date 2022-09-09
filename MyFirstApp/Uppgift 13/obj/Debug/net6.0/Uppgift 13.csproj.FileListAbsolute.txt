@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\bin\Debug\net6.0\Uppgift 13.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\bin\Debug\net6.0\Uppgift 13.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\bin\Debug\net6.0\Uppgift 13.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\bin\Debug\net6.0\Uppgift 13.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\bin\Debug\net6.0\Uppgift 13.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\refint\Uppgift 13.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\Uppgift 13.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\MyFirstApp\Uppgift 13\obj\Debug\net6.0\ref\Uppgift 13.dll

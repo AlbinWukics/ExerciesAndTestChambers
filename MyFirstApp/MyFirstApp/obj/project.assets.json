@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
-      "projectName": "MyFirstApp",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\MyFirstApp\\Uppgift 1-7.csproj",
+      "projectName": "Uppgift 1-7",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\MyFirstApp\\Uppgift 1-7.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\MyFirstApp\\obj\\",
       "projectStyle": "PackageReference",
