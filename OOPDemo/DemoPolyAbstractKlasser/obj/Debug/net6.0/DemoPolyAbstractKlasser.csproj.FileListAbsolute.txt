@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\bin\Debug\net6.0\DemoPolyAbstractKlasser.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\bin\Debug\net6.0\DemoPolyAbstractKlasser.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\bin\Debug\net6.0\DemoPolyAbstractKlasser.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\bin\Debug\net6.0\DemoPolyAbstractKlasser.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\bin\Debug\net6.0\DemoPolyAbstractKlasser.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\refint\DemoPolyAbstractKlasser.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\DemoPolyAbstractKlasser.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPolyAbstractKlasser\obj\Debug\net6.0\ref\DemoPolyAbstractKlasser.dll

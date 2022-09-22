@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\bin\Debug\net6.0\OOP FORTS v.38.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\bin\Debug\net6.0\OOP FORTS v.38.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\bin\Debug\net6.0\OOP FORTS v.38.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\bin\Debug\net6.0\OOP FORTS v.38.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\bin\Debug\net6.0\OOP FORTS v.38.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\refint\OOP FORTS v.38.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\OOP FORTS v.38.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOP FORTS v.38\obj\Debug\net6.0\ref\OOP FORTS v.38.dll

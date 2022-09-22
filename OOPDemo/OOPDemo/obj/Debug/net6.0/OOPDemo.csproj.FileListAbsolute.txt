@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\bin\Debug\net6.0\OOPDemo.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\bin\Debug\net6.0\OOPDemo.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\bin\Debug\net6.0\OOPDemo.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\bin\Debug\net6.0\OOPDemo.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\bin\Debug\net6.0\OOPDemo.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\refint\OOPDemo.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\OOPDemo.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\OOPDemo\obj\Debug\net6.0\ref\OOPDemo.dll

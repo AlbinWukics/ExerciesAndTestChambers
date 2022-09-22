@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\bin\Debug\net6.0\DemoPoly.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\bin\Debug\net6.0\DemoPoly.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\bin\Debug\net6.0\DemoPoly.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\bin\Debug\net6.0\DemoPoly.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\bin\Debug\net6.0\DemoPoly.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\refint\DemoPoly.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\DemoPoly.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\FirstDemo\OOPDemo\DemoPoly\obj\Debug\net6.0\ref\DemoPoly.dll
