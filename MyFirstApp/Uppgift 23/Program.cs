@@ -15,3 +15,4 @@ class ClassUppgift23
     }
 
 }
+Console.WriteLine();
