@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj": {}
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj": {
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj",
+        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj",
         "projectName": "OOP FORTS v.38",
-        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj",
+        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\OOP FORTS v.38\\OOP FORTS v.38.csproj",
         "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\OOP FORTS v.38\\obj\\",
+        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\OOP FORTS v.38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",

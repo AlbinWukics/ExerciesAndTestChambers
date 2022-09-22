@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj",
       "projectName": "Uppgift 10",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 10\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",

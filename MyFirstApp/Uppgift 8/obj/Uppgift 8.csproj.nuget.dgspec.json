@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj": {}
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj": {
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj",
+        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj",
         "projectName": "Uppgift 8",
-        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj",
+        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 8\\Uppgift 8.csproj",
         "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 8\\obj\\",
+        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",

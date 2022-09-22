@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 9\\Uppgift 9.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 9\\Uppgift 9.csproj",
       "projectName": "Uppgift 9",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 9\\Uppgift 9.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 9\\Uppgift 9.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 9\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj": {
-              "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj"
+            "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj": {
+              "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\MyFirstApp\\Uppgift 10\\Uppgift 10.csproj"
             }
           }
         }

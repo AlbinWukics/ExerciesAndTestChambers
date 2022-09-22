@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
       "projectName": "DemoPolyAbstractKlasser",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPolyAbstractKlasser\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",

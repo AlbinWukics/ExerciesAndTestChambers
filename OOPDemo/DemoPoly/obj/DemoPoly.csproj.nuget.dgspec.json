@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPoly\\DemoPoly.csproj": {}
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPoly\\DemoPoly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPoly\\DemoPoly.csproj": {
+    "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPoly\\DemoPoly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPoly\\DemoPoly.csproj",
+        "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPoly\\DemoPoly.csproj",
         "projectName": "DemoPoly",
-        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPoly\\DemoPoly.csproj",
+        "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPoly\\DemoPoly.csproj",
         "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\FirstDemo\\OOPDemo\\DemoPoly\\obj\\",
+        "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPoly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
