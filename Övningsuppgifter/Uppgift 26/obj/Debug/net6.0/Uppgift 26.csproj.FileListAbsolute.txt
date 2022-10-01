@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\bin\Debug\net6.0\Uppgift 26.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\bin\Debug\net6.0\Uppgift 26.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\bin\Debug\net6.0\Uppgift 26.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\bin\Debug\net6.0\Uppgift 26.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\bin\Debug\net6.0\Uppgift 26.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\refint\Uppgift 26.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\Uppgift 26.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 26\obj\Debug\net6.0\ref\Uppgift 26.dll

@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\bin\Debug\net6.0\Uppgift 25.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\bin\Debug\net6.0\Uppgift 25.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\bin\Debug\net6.0\Uppgift 25.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\bin\Debug\net6.0\Uppgift 25.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\bin\Debug\net6.0\Uppgift 25.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\refint\Uppgift 25.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\Uppgift 25.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 25\obj\Debug\net6.0\ref\Uppgift 25.dll

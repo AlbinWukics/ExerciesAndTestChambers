@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\bin\Debug\net6.0\Uppgift 29.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\bin\Debug\net6.0\Uppgift 29.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\bin\Debug\net6.0\Uppgift 29.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\bin\Debug\net6.0\Uppgift 29.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\bin\Debug\net6.0\Uppgift 29.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\refint\Uppgift 29.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\Uppgift 29.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 29\obj\Debug\net6.0\ref\Uppgift 29.dll
