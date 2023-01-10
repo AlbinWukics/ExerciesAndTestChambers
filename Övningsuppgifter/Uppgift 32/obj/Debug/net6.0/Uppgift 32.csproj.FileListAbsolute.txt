@@ -1,0 +1,15 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\bin\Debug\net6.0\Uppgift 32.exe
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\bin\Debug\net6.0\Uppgift 32.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\bin\Debug\net6.0\Uppgift 32.runtimeconfig.json
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\bin\Debug\net6.0\Uppgift 32.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\bin\Debug\net6.0\Uppgift 32.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\refint\Uppgift 32.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\Uppgift 32.genruntimeconfig.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 32\obj\Debug\net6.0\ref\Uppgift 32.dll

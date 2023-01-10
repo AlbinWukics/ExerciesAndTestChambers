@@ -7,7 +7,8 @@
 public class StepCounter
 {
 	private int _steps;
-	//readonly genom att ta bort "set" metoden
+	//readonly genom att ta bort "set" metoden.
+	//FÖR ATT man kommer alltid bara ta ett steg. Finns inget fall där man behöver komma åt Property.n och addera t.ex. 10;
 	public int Steps
 	{
 		get { return _steps; }

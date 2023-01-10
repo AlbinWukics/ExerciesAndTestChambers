@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\Uppgift 8.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\Uppgift 8.csproj",
       "projectName": "Uppgift 8",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\Uppgift 8.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\Uppgift 8.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\Övningsuppgifter\\Uppgift 8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

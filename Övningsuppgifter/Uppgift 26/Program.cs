@@ -7,6 +7,7 @@
 
 var counter = new StepCounter();
 
+
 while (counter.Steps < 1000)
 {
     counter.Step();

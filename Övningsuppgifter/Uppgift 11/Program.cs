@@ -20,9 +20,9 @@ string input = Console.ReadLine();
 
 for (int i = 0; i < input.Length; i++)
 {
-    Console.Write(numberLetter[int.Parse(input[i] +"")]);       //Konverterar input (siffra) till int, för att använda som index
+    Console.Write(numberLetter[int.Parse(input[i] + "")]);       //Konverterar input (siffra) till int, för att använda som index
                                                                 //till arrayen. Index efter input för att ta ut rätt siffra i input.
-                                                                //+ "" pga felkod "kan vara null" på int.Parse(input).
+                                                                //+"" pga felkod
     if (i != (input.Length - 1))
     {
         Console.Write("-");

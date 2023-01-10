@@ -1,0 +1,5 @@
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 30\obj\Debug\net6.0\Uppgift 30, ej klar.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 30\obj\Debug\net6.0\Uppgift 30, ej klar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 30\obj\Debug\net6.0\Uppgift 30, ej klar.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 30\obj\Debug\net6.0\Uppgift 30, ej klar.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\ExerciesAndTestChambers\Övningsuppgifter\Uppgift 30\obj\Debug\net6.0\Uppgift 30, ej klar.csproj.CoreCompileInputs.cache

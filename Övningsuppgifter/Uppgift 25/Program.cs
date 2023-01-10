@@ -17,8 +17,14 @@ var audiA3 = new Car("Audi",300000,"Nardo grå");
 var audiA1 = new Car();
 audiA1.Pris = 150000;
 
-audiA3.HalfPrice();
-audiA1.HalfPrice();
+Console.WriteLine(audiA3.Pris);
+Console.WriteLine(audiA1.Pris);
+
+audiA3.Pris = audiA3.HalfPrice("Audi A3");
+audiA1.Pris = audiA1.HalfPrice("Audi A1");
+
+Console.WriteLine(audiA3.Pris);
+Console.WriteLine(audiA1.Pris);
 
 
 

@@ -46,8 +46,9 @@ public class Car
         Färg = färg;
     }
 
-    public void HalfPrice()
+    public int HalfPrice(string modell)
     {
-        Console.WriteLine($"Halva priset på bilen är: {Pris / 2}");
+        Console.WriteLine($"Halva priset på {modell} är: {Pris / 2}");
+        return Pris / 2;
     }
 }
