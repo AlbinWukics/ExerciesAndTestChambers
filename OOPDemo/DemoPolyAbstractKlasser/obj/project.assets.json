@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
       "projectName": "DemoPolyAbstractKlasser",
-      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\DemoPolyAbstractKlasser.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\ProgrammeringMedC#\\ExerciesAndTestChambers\\OOPDemo\\DemoPolyAbstractKlasser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
